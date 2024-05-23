@@ -1,0 +1,3 @@
+D:/Studies/Obierak - C++/project/cmake-build-debug/CMakeFiles/project.dir
+D:/Studies/Obierak - C++/project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Studies/Obierak - C++/project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
